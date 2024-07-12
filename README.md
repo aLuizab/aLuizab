@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-
 # 👋 Hi there 
 
 My Name is [**Ana Primo**](https://anaprimo.com.br)
