@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**aLuizab/aLuizab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # 👋 Hi there 
 
@@ -29,6 +16,8 @@ Currently learning Golang and Terraform.
 
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,grafana,prometheus,go,python,git,github,kubernetes,docker,terraform,bash,vim,arduino)](https://skillicons.dev)
 
+</div>
+
 
 <div align="center">
 
@@ -40,7 +29,9 @@ Currently learning Golang and Terraform.
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aLuizab&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=aLuizab&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
 
 </div>
+<!--
+**aLuizab/aLuizab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+-->
