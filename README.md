@@ -2,7 +2,7 @@
 
 My Name is [**Ana Primo**](https://anaprimo.com.br)
   
-I'm a Site Reliability Enginner and Incidente Commander Specialist at **@itau**.
+I'm a Site Reliability Enginner and Incident Commander Specialist at **@itau**.
   
 Currently learning Golang and Terraform.
 
